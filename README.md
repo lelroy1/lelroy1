@@ -1,11 +1,5 @@
-Hi, I’m Lucas Elroy. 
-I am interested in data analysis and software engineering. 
-I’m currently learning Electrical Engineering at the University of Washington. 
-My email is lelroycollege@gmail.com. 
-I usually program in Java, Python, and SQL. 
-Looking for ways to improve and learn skills.
-
-<!---
-lelroy1/lelroy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Lucas Elroy. 
+I am interested in audio engineering, HDK design and analog circuit design. 
+I graduated with an Electrical Engineering degree at the University of Washington in June of 2024. 
+I am always looking for cool projects and ways to learn new skills.
+This account will detail projects I am passionate about that I have completed over the years.
